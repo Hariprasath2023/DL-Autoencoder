@@ -31,9 +31,9 @@ Visualization and Analysis
 
 ## PROGRAM
 
-### Name: RITHIK V
+### Name: HARI PRASATH RK
 
-### Register Number: 212223230171
+### Register Number: 212223040055
 
 ```python
 # Autoencoder for Image Denoising using PyTorch
